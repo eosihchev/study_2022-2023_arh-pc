@@ -91,6 +91,7 @@ header-includes:
 5. Вставляем ключ на сайте.
 
 ![SSH ключ](image/pic5.png)
+
 ![SSH ключ](image/pic6.png)
 
 6. Создаем каталог для предмета «Архитектура компью-тера».
@@ -112,14 +113,19 @@ header-includes:
 10. Отправляем файлы на сервер.
 
 ![git add](image/pic11.png)
+
 ![git commit](image/pic12.png)
+
 ![git commit](image/pic13.png)
+
 ![git push](image/pic14.png)
 
 11. Проверяем правильность создания иерархии рабочего пространства в локальном репозитории и на странице github.
 
 ![Проверка](image/pic15.png)
+
 ![Проверка](image/pic16.png)
+
 ![Проверка](image/pic17.png)
 
 # Самостоятельная работа
@@ -135,6 +141,7 @@ header-includes:
 3. Проверим правильность выполненных действий.
 
 ![Проверка](image/pic20.png)
+
 ![Проверка](image/pic21.png)
 
 # Выводы
